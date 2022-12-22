@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RGZ_Chernyavsky</string>
+    <string name="sortText">Сортировать</string>
+    <string name="saveText">Сохранить</string>
+    <string name="loadText">Загрузить</string>
+    <string name="clearText">Очистить</string>
+</resources>
